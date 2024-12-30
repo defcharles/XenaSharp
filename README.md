@@ -8,6 +8,7 @@ XenaSharp is a Fortnite backend developed in C#.
 9.41,
 12.41,
 19.10,
+10.40
 
 # Implemented MCP Functions
 
